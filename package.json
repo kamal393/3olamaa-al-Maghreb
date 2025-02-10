@@ -1,0 +1,37 @@
+{
+  "name": "moroccan-islamic-scholars",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@formatjs/intl-datetimeformat": "^6.17.2",
+    "@heroicons/react": "^2.1.1",
+    "@tailwindcss/typography": "^0.5.10",
+    "arabic-reshaper": "^1.1.0",
+    "autoprefixer": "^10.4.16",
+    "bidi-js": "^1.0.3",
+    "dayjs": "^1.11.13",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "postcss": "^8.4.32",
+    "praytimes": "^0.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.5",
+    "react-icons": "^4.12.0",
+    "react-player": "^2.14.1",
+    "react-router-dom": "^6.29.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
